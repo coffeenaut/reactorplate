@@ -1,4 +1,4 @@
-# vuebone
+# reactorplate
 Just another barbones react app boilerplate. Everyone has their boilerplates to build from, this one is mine. Feel free to clone this and use as you like. Packaged with tailwindcss and vite bundler
 
 ## Dependencies
@@ -27,6 +27,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
